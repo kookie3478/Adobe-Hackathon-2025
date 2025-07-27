@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "timestamp": "2025-07-27T13:33:10.856228"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 12,
+      "section_title": "Slice tomatoes and mozzarella",
+      "importance_rank": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "section_title": "In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell peppe",
+      "importance_rank": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 14,
+      "section_title": "Dice tomatoes and cucumber, slice red onion",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 13,
+      "section_title": "Carrots, and cucumber on each wrapper",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 13,
+      "section_title": "Cook sandwiches in the skillet until golden brown and cheese is melted",
+      "importance_rank": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 2,
+      "section_title": "Bowl",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 4,
+      "section_title": "Sliced green onions for garnish  instructions:",
+      "importance_rank": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 11,
+      "section_title": "Saut\u00e9 diced onion, minced garlic, and sliced bell pepper until softened",
+      "importance_rank": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 9,
+      "section_title": "1 bagel, sliced and toasted  \u2022   2 tablespoons cream cheese  \u2022   optional to",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "refined_text": "Pancakes  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "refined_text": "French Toast  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   1/2 teaspoon ground cinnamon  \u2022   1 tablespoon butter  Instructions:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "Smoothie Bowl  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   1 banana  \u2022   1/2 cup frozen berries  \u2022   1/2 cup Greek yogurt  \u2022   1/4 cup milk  \u2022   Toppings: granola, fresh fruit, nuts, seeds  Instructions:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   In a blender, combine banana, frozen berries, Greek yogurt, and milk.  \u2022   Blend until smooth.  \u2022   Pour into a bowl and top with granola, fresh fruit, nuts, and seeds."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "Avocado Toast  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "Breakfast Burrito  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "refined_text": "Oatmeal  Ingredients:"
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "refined_text": "\u2022   1 cup rolled oats  \u2022   2 cups water or milk  \u2022   1/4 teaspoon salt  \u2022   Toppings: fresh fruit, nuts, honey, cinnamon  Instructions:"
+    }
+  ]
+}

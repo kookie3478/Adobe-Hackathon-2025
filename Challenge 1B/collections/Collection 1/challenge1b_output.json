@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "timestamp": "2025-07-27T13:32:13.340115"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "section_title": "Travel tips",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "section_title": "Pack a day bag:  bring a small day bag for daily excursions",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "section_title": "The ultimate south of france travel companion: your comprehensive guide to packi",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "section_title": "Snacks:  bring a variety of snacks for travel and outings",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "section_title": "Beach trips",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "section_title": "Wine tours",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "Books and entertainment:  a book, e-reader, or tablet for entertainment duri",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 8,
+      "section_title": "Budget-friendly hotels",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "section_title": "Additional tips:  plan your wine tour route in advance and consider hiring a",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "Packing for adults",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 1,
+      "refined_text": "Comprehensive Guide to Major Cities in the South of France"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 1,
+      "refined_text": "Introduction"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 1,
+      "refined_text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich  cultural heritage, is home to some of the most beautiful and historically significant cities in the  country. This guide provides an in-depth look at the major cities in the South of France,  detailing their history, key attractions, cultural highlights, and unique characteristics. Whether  you're planning a visit or simply want to learn more about this enchanting region, this guide  will o\ufb00er valuable insights into each city's charm and allure."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "Overview of the Region"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-C\u00f4te d'Azur,  Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,  from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and  the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and  mild winters, making it a year-round destination. The South of France is also famous for its  cuisine, wines, and vibrant cultural scene."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "Travel Tips"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022   Best Time to Visit : The best time to visit the South of France is during the spring (April  to June) and fall (September to October) when the weather is pleasant, and the tourist  crowds are smaller."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022   Transportation : The region is well-connected by an extensive network of trains,  buses, and flights. Renting a car is also a great option for exploring the countryside  and smaller towns."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022   Language : While French is the o\ufb03cial language, English is widely spoken in tourist  areas. Learning a few basic French phrases can enhance your travel experience."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 3,
+      "refined_text": "Marseille: The Oldest City in France"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "timestamp": "2025-07-27T13:32:51.646066"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Print forms",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 13,
+      "section_title": "Save forms",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Interactive forms : these contain fields that you can select and fill in",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in pdf forms",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Is the form fillable?",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of pdf forms",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Fill and sign pdf forms  you can easily fill, sign, and share your documents usi",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "An  interactive  form contains fields that you can select or fill in",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (acrobat pro)",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "What\u2019s the best way to create a PDF?"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign\u00ae  files, digital images, and more. Di\ufb00erent types of sources have di\ufb00erent tools available for PDF  conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in  the Print dialog box."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft  Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is  already open, you don\u2019t have to open the authoring application to convert a file to PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "Every PDF balances e\ufb03ciency (small file size) and quality (such as resolution and color). If the  balance between the file size and the quality is critical to your task, you must use an  appropriate conversion method."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat  applies the most recently used conversion settings without providing access to those settings.  If you want more control over the process, you\u2019ll want to use another method."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "PDF creation methods by file type"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "Refer to the following lists to determine the methods available for the di\ufb00erent types of files."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "File Type  PDF Creation Methods"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "Any file format"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "refined_text": "Method 1 :  From the top tools bar, select  Create . Then, select a  file type and then select the file that you want to convert to  PDF."
+    }
+  ]
+}
